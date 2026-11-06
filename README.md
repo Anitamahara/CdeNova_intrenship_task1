@@ -53,3 +53,6 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 - `sales_analysis.ipynb`: the full analysis
 - `Sample - Superstore.csv`: the dataset
 - `charts/`: chart images
+#dataset
+Sample - Superstore.csv
+
